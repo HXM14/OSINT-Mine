@@ -36,7 +36,7 @@
 - **DNS Security Analyzer**
    - [Dnssec-analyzer](https://dnssec-analyzer.verisignlabs.com/)
    - [Dnsviz](https://dnsviz.net/)
-   - [Dnsdumpster]https://dnsdumpster.com/
+   - [Dnsdumpster](https://dnsdumpster.com/)
 ### Secure Browsing
 - **Brave Browser** For Anonymous Browsing [Download](https://brave.com/).
 - **Decentraleyes** Local CDN Emulation [Add it to your Browser](https://decentraleyes.org/).
