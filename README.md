@@ -17,6 +17,22 @@
 - Awsome OSINT [github Rep](https://github.com/jivoi/awesome-osint) with Massive Tools and Resources in intelligence Gathering. 
 - [Open Source Intelligence FrameWork](https://osintframework.com/) Online FrameWork For intelligence investigation with Massive links and Resources.
 - OSINT Resources and Tools [onstrat](http://www.onstrat.com/osint/) For Intelligence gathering.
+### Secure Browsing
+- Brave Browser For Anonymous Browsing [Download](https://brave.com/).
+- Decentraleyes Local CDN Emulation [Add it to your Browser](https://decentraleyes.org/).
+- HTTPS Every where [Addone](https://www.eff.org/HTTPS-EVERYWHERE) encrypts Web communications with many major websites, making browsing more secure.
+- Privacy Badger [Addone](https://www.eff.org/privacybadger) automatically block invisible trackers.
+- No script Security Suite [Addone](https://addons.mozilla.org/en-US/firefox/addon/noscript/) Allow active content to run only from Trusted sites,and protect against XSS other web security exploits.
+- uBlock Origin [Addone](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) efficient blocker.
+- User-Agent Switcher [Addone](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived/) Quickly and easily switch between popular user-agent strings.
+- Cookie AutoDelete [Addone](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) Control your cookies!.
+- uMatrix [Addone](https://addons.mozilla.org/en-US/firefox/addon/umatrix/) Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
+- CanvasBlocker [Addone](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) Alters some JS APIs to prevent fingerprinting.
+### **Browser Finger Printing**
+- https://browserleaks.com/
+- https://amiunique.org/
+- https://panopticlick.eff.org/results?aat=1#fingerprintTable
+- https://www.deviceinfo.me/
 ### **Threat Intel Platform**
 - https://exchange.xforce.ibmcloud.com/
 - https://www.malwarepatrol.net/non-commercial/
@@ -95,20 +111,4 @@
 - https://tools.kali.org/information-gathering/metagoofil
 - https://tools.kali.org/information-gathering/urlcrazy
 - https://tools.kali.org/information-gathering/fierce
-### **Secure Browsing**
-- https://brave.com/
-- https://decentraleyes.org/
-- https://www.eff.org/HTTPS-EVERYWHERE
-- https://www.eff.org/privacybadger
-- https://addons.mozilla.org/en-US/firefox/addon/noscript/
-- https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
-- https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
-- https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived/
-- https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/
-- https://addons.mozilla.org/en-US/firefox/addon/umatrix/
-- https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/
-### **Browser Finger Printing**
-- https://browserleaks.com/
-- https://amiunique.org/
-- https://panopticlick.eff.org/results?aat=1#fingerprintTable
-- https://www.deviceinfo.me/
+
