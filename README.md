@@ -43,10 +43,10 @@
 - **uMatrix** [Addone](https://addons.mozilla.org/en-US/firefox/addon/umatrix/) Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
 - **CanvasBlocker** [Addone](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) Alters some JS APIs to prevent fingerprinting.
 ### **Browser Finger Printing**
-- https://browserleaks.com/
-- https://amiunique.org/
-- https://panopticlick.eff.org/results?aat=1#fingerprintTable
-- https://www.deviceinfo.me/
+- Browserleaks https://browserleaks.com/
+- Amiunique https://amiunique.org/
+- Panopticlick https://panopticlick.eff.org/results?aat=1#fingerprintTable
+- Device info https://www.deviceinfo.me/
 ### **Threat Intel Platform**
 - https://exchange.xforce.ibmcloud.com/
 - https://www.malwarepatrol.net/non-commercial/
