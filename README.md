@@ -7,7 +7,7 @@
     /_/                                                                        /____/                       
  Open Source Intelligence Tools, Writeups, Web Reconnaissance, Toolkits, Other Awesome Represotries and More
 </pre>
-## **Intel gathering & OSINT Resources** 
+### **Intel gathering & OSINT Resources** 
 - https://github.com/bitvijays/bitvijays.github.io-sphinx/blob/master/docs/LFF-IPS-P1-IntelligenceGathering.rst
 - https://themanyhats.club/centralised-place-for-privacy-resources/#osint
 - https://osint.link/
