@@ -17,6 +17,7 @@
 - 	Open Source Intelligence Tools & Resources [OSINT](https://osint.link/).
 - MISP - Open Source Threat Intelligence Platform & Open Standards For Threat Information Sharing [MISP](https://www.misp-project.org/).
 - OSINT Resources and Tools [onstrat](http://www.onstrat.com/osint/) For Intelligence gathering.
+### OSINT Tools 
 - https://github.com/thewhiteh4t/FinalRecon
 - https://github.com/ElevenPaths/FOCA
 - https://github.com/twintproject/twint
@@ -29,11 +30,7 @@
 - https://tools.kali.org/information-gathering/automater
 - https://tools.kali.org/information-gathering/metagoofil
 - https://tools.kali.org/information-gathering/urlcrazy
-- https://tools.kali.org/information-gathering/fierce
-- **DNSsec Analyzer**
-- [Dnssec-analyzer](https://dnssec-analyzer.verisignlabs.com/)
-- [Dnsviz](https://dnsviz.net/)
-- [Dnsdumpster](https://dnsdumpster.com/)
+- https://tools.kali.org/information-gathering/fierc
 ### Secure Browsing
 - **Brave Browser** For Anonymous Browsing [Download](https://brave.com/).
 - **Decentraleyes** Local CDN Emulation [Add it to your Browser](https://decentraleyes.org/).
