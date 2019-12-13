@@ -5,7 +5,7 @@
 / /_/ / /_/ /  __/ / / /__/ / /_/ / /_/ / /  / /__/  __// // / / / /_/  __/ / / / /_/ /  __/ / / / /__/  __/
 \____/ .___/\___/_/ /_/____/\____/\__,_/_/   \___/\___/___/_/ /_/\__/\___/_/_/_/\__, /\___/_/ /_/\___/\___/ 
     /_/                                                                        /____/                       
- Open Source Intelligence Tools, Writeups, Web Reconnaissance, Toolkits, Other Awesome Represotries and More
+ Open Source Intelligence Tools, Writeups,Toolkits,Web Reconnaissance, Other Awesome Represotries and More
 </pre>
 ### Intel gathering, OSINT Toolkits & Resources
 - **Awsome OSINT** [github Rep](https://github.com/jivoi/awesome-osint) with Massive Tools and Resources in intelligence Gathering. 
