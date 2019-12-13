@@ -33,7 +33,6 @@
 - https://tools.kali.org/information-gathering/urlcrazy
 - https://tools.kali.org/information-gathering/fierce
 ### DNSsec Analyzer 
-- **DNS Security Analyzer**
    - [Dnssec-analyzer](https://dnssec-analyzer.verisignlabs.com/)
    - [Dnsviz](https://dnsviz.net/)
    - [Dnsdumpster](https://dnsdumpster.com/)
@@ -63,7 +62,6 @@
 - https://censys.io/
 - https://threatconnect.com/
 ### **Search Engines**
-- https://www.shodan.io
 - https://ahmia.fi/
 - https://www.google.com/advanced_search
 - https://www.google.com/advanced_image_search
