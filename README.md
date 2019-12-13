@@ -56,14 +56,6 @@
 - https://app.binaryedge.io/services/query
 - https://censys.io/
 - https://threatconnect.com/
-### **Online Maps**
-- https://www.google.com/earth/
-- https://www.instantstreetview.com/
-- https://wigle.net/
-- https://tracker.geops.ch/?z=13&s=1&x=950813.1667&y=6003976.5951&l=transport
-- https://wikimapia.org/#lang=en&lat=30.012439&lon=31.240740&z=16&m=w
-- https://www.opensignal.com/networks
-- http://netdbtracking.sourceforge.net/
 ### **Email & crime Records Search**
 - https://webmii.com/
 - https://www.peekyou.com/
