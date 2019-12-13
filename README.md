@@ -17,6 +17,20 @@
 - MISP - Open Source Threat Intelligence Platform & Open Standards For Threat Information Sharing [MISP](https://www.misp-project.org/).
 - [bellingcat Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/mobilebasic#h.53v0mj3zi19x)- [**Bellingcat**](https://www.bellingcat.com/) is an investigative journalism website that specializes in fact-checking and open-source intelligence check .
 - OSINT Resources and Tools [onstrat](http://www.onstrat.com/osint/) For Intelligence gathering.
+### **OSINT Tools** 
+- https://github.com/aboul3la/Sublist3r
+- https://github.com/thewhiteh4t/FinalRecon
+- https://github.com/ElevenPaths/FOCA
+- https://github.com/twintproject/twint
+- https://github.com/DataSploit/datasploit
+- https://github.com/leebaird/discover
+- https://github.com/smicallef/spiderfoot
+- https://github.com/m4ll0k/Infoga
+- https://github.com/woj-ciech/OSINT/blob/master/shodan/shodan.go
+- https://tools.kali.org/information-gathering/automater
+- https://tools.kali.org/information-gathering/metagoofil
+- https://tools.kali.org/information-gathering/urlcrazy
+- https://tools.kali.org/information-gathering/fierce
 ### Secure Browsing
 - **Brave Browser** For Anonymous Browsing [Download](https://brave.com/).
 - **Decentraleyes** Local CDN Emulation [Add it to your Browser](https://decentraleyes.org/).
@@ -97,18 +111,5 @@
 - https://www.cvedetails.com/vulnerability-list/vendor_id-26/product_id-3436/Microsoft-IIS.html
 - https://sploitus.com/?fbclid=IwAR3lO6PFoGHvDIa7fLQ2yGkiH6ExkAudWc1qiXy8uwuF3j_fvR5d5p3gUX0
 - https://www.exploit-db.com/
-### **OSINT Tools** 
-- https://github.com/aboul3la/Sublist3r
-- https://github.com/thewhiteh4t/FinalRecon
-- https://github.com/ElevenPaths/FOCA
-- https://github.com/twintproject/twint
-- https://github.com/DataSploit/datasploit
-- https://github.com/leebaird/discover
-- https://github.com/smicallef/spiderfoot
-- https://github.com/m4ll0k/Infoga
-- https://github.com/woj-ciech/OSINT/blob/master/shodan/shodan.go
-- https://tools.kali.org/information-gathering/automater
-- https://tools.kali.org/information-gathering/metagoofil
-- https://tools.kali.org/information-gathering/urlcrazy
-- https://tools.kali.org/information-gathering/fierce
+
 
