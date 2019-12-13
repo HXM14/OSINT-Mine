@@ -56,10 +56,6 @@
 - https://app.binaryedge.io/services/query
 - https://censys.io/
 - https://threatconnect.com/
-### **Search Engines**
-- https://ahmia.fi/
-- https://www.google.com/advanced_search
-- https://www.google.com/advanced_image_search
 ### **Online Maps**
 - https://www.google.com/earth/
 - https://www.instantstreetview.com/
@@ -76,15 +72,6 @@
 - http://infospace.com/
 - https://hunter.io/
 - https://lullar-com-3.appspot.com/en
-### **Social Media Analysis Tools**
-- https://www.twitonomy.com/
-- https://fakers.statuspeople.com/
-- https://snoopsnoo.com/
-- https://sleepingtime.org/
-- https://socialbearing.com/
-- https://foller.me/
-- https://redditmetrics.com/
-- https://socialblade.com/?fbclid=IwAR1ZVi--RUK3eFeXiOK6fwqUJVtGwQloFd-iQxyP4x9XfLvh8eMXr3xjxDA
 ### **live Webcams**
 - https://www.earthcam.com/search/ft_search.php?term=egypt
 - https://www.skylinewebcams.com/
