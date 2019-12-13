@@ -8,7 +8,7 @@
  Open Source Intelligence Tools, Writeups, Web Reconnaissance, Toolkits, Other Awesome Represotries and More
 </pre>
 ### Intel gathering, OSINT Toolkits & Resources
-- Infrastructure PenTest Series [Intelligence gathering](https://github.com/bitvijays/bitvijays.github.io-sphinx/blob/master/docs/LFF-IPS-P1-IntelligenceGathering.rst)step by step series.
+- Infrastructure PenTest Series [Intelligence gathering](https://github.com/bitvijays/bitvijays.github.io-sphinx/blob/master/docs/LFF-IPS-P1-IntelligenceGathering.rst) step by step series.
 - Threat Inelligence Reports [CTI-Reports](https://github.com/fdiskyou/threat-INTel) IBM, ESET and More.
 - Centralized Place For Privacy Resources [themanyhats](https://themanyhats.club/centralised-place-for-privacy-resources/#osint) VPNs, Emails, Messengers, Encryption, Addons and More.
 - 	Open Source Intelligence Tools & Resources [OSINT](https://osint.link/).
