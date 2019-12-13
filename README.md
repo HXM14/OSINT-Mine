@@ -15,7 +15,7 @@
 - MISP - Open Source Threat Intelligence Platform & Open Standards For Threat Information Sharing [MISP](https://www.misp-project.org/).
 - [bellingcat Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/mobilebasic#h.53v0mj3zi19x)- [**Bellingcat**](https://www.bellingcat.com/) is an investigative journalism website that specializes in fact-checking and open-source intelligence check .
 - **Awsome OSINT** [github Rep](https://github.com/jivoi/awesome-osint) with Massive Tools and Resources in intelligence Gathering. 
-- **[Open Source Intelligence FrameWork]**(https://osintframework.com/) Online FrameWork For intelligence investigation with Massive links and Resources.
+- **OSINT-F** [Open Source Intelligence FrameWork](https://osintframework.com/) Online FrameWork For intelligence investigation with Massive links and Resources.
 - OSINT Resources and Tools [onstrat](http://www.onstrat.com/osint/) For Intelligence gathering.
 ### Secure Browsing
 - **Brave Browser** For Anonymous Browsing [Download](https://brave.com/).
