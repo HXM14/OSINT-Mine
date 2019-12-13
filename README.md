@@ -1,4 +1,3 @@
-<html>
 <pre>
    ____                  _____                            ____      __       _____                          
   / __ \____  ___  ____ / ___/____  __  _______________  /  _/___  / /____  / / (_)___ ____  ____  ________ 
@@ -6,7 +5,9 @@
 / /_/ / /_/ /  __/ / / /__/ / /_/ / /_/ / /  / /__/  __// // / / / /_/  __/ / / / /_/ /  __/ / / / /__/  __/
 \____/ .___/\___/_/ /_/____/\____/\__,_/_/   \___/\___/___/_/ /_/\__/\___/_/_/_/\__, /\___/_/ /_/\___/\___/ 
     /_/                                                                        /____/                       
-  Open Source Intelligence Tools, Writeups, Web Reconnaissance, Toolkits, Other Awesome Represotries and More
+ Open Source Intelligence Tools, Writeups, Web Reconnaissance, Toolkits, Other Awesome Represotries and More
+</pre>
+
 **Intel gathering & OSINT Resources** 
 - https://github.com/bitvijays/bitvijays.github.io-sphinx/blob/master/docs/LFF-IPS-P1-IntelligenceGathering.rst
 - https://themanyhats.club/centralised-place-for-privacy-resources/#osint
@@ -14,29 +15,29 @@
 - https://github.com/fdiskyou/threat-INTel
 - https://www.misp-project.org/
 **OSINT toolkit**
-https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/mobilebasic#h.53v0mj3zi19x
-https://osintframework.com/
-http://www.onstrat.com/osint/
-https://github.com/jivoi/awesome-osint
+- https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/mobilebasic#h.53v0mj3zi19x
+- https://osintframework.com/
+- http://www.onstrat.com/osint/
+- https://github.com/jivoi/awesome-osint
 Hackin9 OSINT Toolkit
 Threat Intel Platform
-https://exchange.xforce.ibmcloud.com/
-https://www.malwarepatrol.net/non-commercial/
-https://riskdiscovery.com/honeydb/
-https://dnstats.net/
-https://www.domaintools.com/
-https://app.binaryedge.io/services/query
-https://censys.io/
-https://threatconnect.com/
+- https://exchange.xforce.ibmcloud.com/
+- https://www.malwarepatrol.net/non-commercial/
+- https://riskdiscovery.com/honeydb/
+- https://dnstats.net/
+- https://www.domaintools.com/
+- https://app.binaryedge.io/services/query
+- https://censys.io/
+- https://threatconnect.com/
 Search Engines
-https://www.shodan.io/host/158.69.26.71
-https://ahmia.fi/
-https://www.google.com/advanced_search
-https://www.google.com/advanced_image_search
+- https://www.shodan.io
+- https://ahmia.fi/
+- https://www.google.com/advanced_search
+- https://www.google.com/advanced_image_search
 Online Maps 
-https://www.google.com/earth/
-https://www.instantstreetview.com/
-https://wigle.net/
+- https://www.google.com/earth/
+- https://www.instantstreetview.com/
+- https://wigle.net/
 https://tracker.geops.ch/?z=13&s=1&x=950813.1667&y=6003976.5951&l=transport
 https://wikimapia.org/#lang=en&lat=30.012439&lon=31.240740&z=16&m=w
 https://www.opensignal.com/networks
@@ -114,4 +115,3 @@ https://browserleaks.com/
 https://amiunique.org/
 https://panopticlick.eff.org/results?aat=1#fingerprintTable
 https://www.deviceinfo.me/
-</pre>
