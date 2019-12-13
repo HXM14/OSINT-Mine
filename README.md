@@ -7,14 +7,13 @@
 \____/ .___/\___/_/ /_/____/\____/\__,_/_/   \___/\___/___/_/ /_/\__/\___/_/_/_/\__, /\___/_/ /_/\___/\___/ 
     /_/                                                                        /____/                       
   Open Source Intelligence Tools, Writeups, Web Reconnaissance, Toolkits, Other Awesome Represotries and More
-</pre>
-Intel gathering | OSINT Resources 
-https://github.com/bitvijays/bitvijays.github.io-sphinx/blob/master/docs/LFF-IPS-P1-IntelligenceGathering.rst
-https://themanyhats.club/centralised-place-for-privacy-resources/#osint
-https://osint.link/
-https://github.com/fdiskyou/threat-INTel
-https://www.misp-project.org/
-OSINT toolkit
+**Intel gathering & OSINT Resources** 
+- https://github.com/bitvijays/bitvijays.github.io-sphinx/blob/master/docs/LFF-IPS-P1-IntelligenceGathering.rst
+- https://themanyhats.club/centralised-place-for-privacy-resources/#osint
+- https://osint.link/
+- https://github.com/fdiskyou/threat-INTel
+- https://www.misp-project.org/
+**OSINT toolkit**
 https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/mobilebasic#h.53v0mj3zi19x
 https://osintframework.com/
 http://www.onstrat.com/osint/
@@ -115,3 +114,4 @@ https://browserleaks.com/
 https://amiunique.org/
 https://panopticlick.eff.org/results?aat=1#fingerprintTable
 https://www.deviceinfo.me/
+</pre>
