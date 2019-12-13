@@ -7,13 +7,13 @@
     /_/                                                                        /____/                       
  Open Source Intelligence Tools, Writeups, Web Reconnaissance, Toolkits, Other Awesome Represotries and More
 </pre>
-###Intel gathering, OSINT Toolkits & Resources
+### Intel gathering, OSINT Toolkits & Resources
 - Infrastructure PenTest Series [Intelligence gathering](https://github.com/bitvijays/bitvijays.github.io-sphinx/blob/master/docs/LFF-IPS-P1-IntelligenceGathering.rst)step by step series.
 - Threat Inelligence Reports [CTI-Reports](https://github.com/fdiskyou/threat-INTel) IBM, ESET and More.
-- Centralized Place For Privacy Resources [themanyhats](https://themanyhats.club/centralised-place-for-privacy-resources/#osint)VPNs, Emails, Messengers, Encryption, Addons and More.
+- Centralized Place For Privacy Resources [themanyhats](https://themanyhats.club/centralised-place-for-privacy-resources/#osint) VPNs, Emails, Messengers, Encryption, Addons and More.
 - 	Open Source Intelligence Tools & Resources [OSINT](https://osint.link/).
 - MISP - Open Source Threat Intelligence Platform & Open Standards For Threat Information Sharing [MISP](https://www.misp-project.org/).
-- [bellingcat Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/mobilebasic#h.53v0mj3zi19x) [**Bellingcat**](https://www.bellingcat.com/) is an investigative journalism website that specializes in fact-checking and open-source intelligence check .
+- [bellingcat Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/mobilebasic#h.53v0mj3zi19x)- [**Bellingcat**](https://www.bellingcat.com/) is an investigative journalism website that specializes in fact-checking and open-source intelligence check .
 - Awsome OSINT [github Rep](https://github.com/jivoi/awesome-osint) with Massive Tools and Resources in intelligence Gathering. 
 - [Open Source Intelligence FrameWork](https://osintframework.com/) Online FrameWork For intelligence investigation with Massive links and Resources.
 - OSINT Resources and Tools [onstrat](http://www.onstrat.com/osint/) For Intelligence gathering.
