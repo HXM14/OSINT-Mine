@@ -9,25 +9,25 @@
 </pre>
 ### Intel gathering, OSINT Toolkits & Resources
 - Infrastructure PenTest Series [Intelligence gathering](https://github.com/bitvijays/bitvijays.github.io-sphinx/blob/master/docs/LFF-IPS-P1-IntelligenceGathering.rst) step by step series.
-- Threat Inelligence Reports [CTI-Reports](https://github.com/fdiskyou/threat-INTel) IBM, ESET and More.
+- **Threat Inelligence Reports** [CTI-Reports](https://github.com/fdiskyou/threat-INTel) IBM, ESET and More.
 - Centralized Place For Privacy Resources [themanyhats](https://themanyhats.club/centralised-place-for-privacy-resources/#osint) VPNs, Emails, Messengers, Encryption, Addons and More.
 - 	Open Source Intelligence Tools & Resources [OSINT](https://osint.link/).
 - MISP - Open Source Threat Intelligence Platform & Open Standards For Threat Information Sharing [MISP](https://www.misp-project.org/).
 - [bellingcat Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/mobilebasic#h.53v0mj3zi19x)- [**Bellingcat**](https://www.bellingcat.com/) is an investigative journalism website that specializes in fact-checking and open-source intelligence check .
-- Awsome OSINT [github Rep](https://github.com/jivoi/awesome-osint) with Massive Tools and Resources in intelligence Gathering. 
-- [Open Source Intelligence FrameWork](https://osintframework.com/) Online FrameWork For intelligence investigation with Massive links and Resources.
+- **Awsome OSINT** [github Rep](https://github.com/jivoi/awesome-osint) with Massive Tools and Resources in intelligence Gathering. 
+- **[Open Source Intelligence FrameWork]**(https://osintframework.com/) Online FrameWork For intelligence investigation with Massive links and Resources.
 - OSINT Resources and Tools [onstrat](http://www.onstrat.com/osint/) For Intelligence gathering.
 ### Secure Browsing
-- Brave Browser For Anonymous Browsing [Download](https://brave.com/).
-- Decentraleyes Local CDN Emulation [Add it to your Browser](https://decentraleyes.org/).
-- HTTPS Every where [Addone](https://www.eff.org/HTTPS-EVERYWHERE) encrypts Web communications with many major websites, making browsing more secure.
-- Privacy Badger [Addone](https://www.eff.org/privacybadger) automatically block invisible trackers.
-- No script Security Suite [Addone](https://addons.mozilla.org/en-US/firefox/addon/noscript/) Allow active content to run only from Trusted sites,and protect against XSS other web security exploits.
-- uBlock Origin [Addone](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) efficient blocker.
-- User-Agent Switcher [Addone](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived/) Quickly and easily switch between popular user-agent strings.
-- Cookie AutoDelete [Addone](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) Control your cookies!.
-- uMatrix [Addone](https://addons.mozilla.org/en-US/firefox/addon/umatrix/) Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
-- CanvasBlocker [Addone](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) Alters some JS APIs to prevent fingerprinting.
+- **Brave Browser** For Anonymous Browsing [Download](https://brave.com/).
+- **Decentraleyes** Local CDN Emulation [Add it to your Browser](https://decentraleyes.org/).
+- **HTTPS Every where** [Addone](https://www.eff.org/HTTPS-EVERYWHERE) encrypts Web communications with many major websites, making browsing more secure.
+- **Privacy Badger** [Addone](https://www.eff.org/privacybadger) automatically block invisible trackers.
+- **No script** Security Suite [Addone](https://addons.mozilla.org/en-US/firefox/addon/noscript/) Allow active content to run only from Trusted sites,and protect against XSS other web security exploits.
+- **uBlock** Origin [Addone](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) efficient blocker.
+- **User-Agent Switcher** [Addone](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived/) Quickly and easily switch between popular user-agent strings.
+- **Cookie Auto Delete** [Addone](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) Control your cookies!.
+- **uMatrix** [Addone](https://addons.mozilla.org/en-US/firefox/addon/umatrix/) Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
+- **CanvasBlocker** [Addone](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) Alters some JS APIs to prevent fingerprinting.
 ### **Browser Finger Printing**
 - https://browserleaks.com/
 - https://amiunique.org/
