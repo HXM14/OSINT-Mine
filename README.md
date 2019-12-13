@@ -13,12 +13,12 @@
 - https://osint.link/
 - https://github.com/fdiskyou/threat-INTel
 - https://www.misp-project.org/
-## **OSINT toolkit**
+### **OSINT toolkit**
 - https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/mobilebasic#h.53v0mj3zi19x
 - https://osintframework.com/
 - http://www.onstrat.com/osint/
 - https://github.com/jivoi/awesome-osint
-**Threat Intel Platform**
+### **Threat Intel Platform**
 - https://exchange.xforce.ibmcloud.com/
 - https://www.malwarepatrol.net/non-commercial/
 - https://riskdiscovery.com/honeydb/
@@ -27,12 +27,12 @@
 - https://app.binaryedge.io/services/query
 - https://censys.io/
 - https://threatconnect.com/
-**Search Engines**
+### **Search Engines**
 - https://www.shodan.io
 - https://ahmia.fi/
 - https://www.google.com/advanced_search
 - https://www.google.com/advanced_image_search
-**Online Maps**
+### **Online Maps**
 - https://www.google.com/earth/
 - https://www.instantstreetview.com/
 - https://wigle.net/
@@ -40,7 +40,7 @@
 - https://wikimapia.org/#lang=en&lat=30.012439&lon=31.240740&z=16&m=w
 - https://www.opensignal.com/networks
 - http://netdbtracking.sourceforge.net/
-**Email & crime Records Search**
+### **Email & crime Records Search**
 - https://webmii.com/
 - https://www.peekyou.com/
 - https://www.crimereports.com/
@@ -48,7 +48,7 @@
 - http://infospace.com/
 - https://hunter.io/
 - https://lullar-com-3.appspot.com/en
-Social Media Analysis Tools
+### **Social Media Analysis Tools**
 - https://www.twitonomy.com/
 - https://fakers.statuspeople.com/
 - https://snoopsnoo.com/
@@ -57,24 +57,24 @@ Social Media Analysis Tools
 - https://foller.me/
 - https://redditmetrics.com/
 - https://socialblade.com/?fbclid=IwAR1ZVi--RUK3eFeXiOK6fwqUJVtGwQloFd-iQxyP4x9XfLvh8eMXr3xjxDA
-**live Webcams**
+### **live Webcams**
 - https://www.earthcam.com/search/ft_search.php?term=egypt
 - https://www.skylinewebcams.com/
 - https://www.webcamtaxi.com/en/map.html
-**URL**
+### **URL**
 - https://tinyurl.com/
 - https://urlex.org/
 - https://goo.gl/
 - https://checkshorturl.com/
 - https://meyerweb.com/eric/tools/dencoder/
 - http://getlinkinfo.com/
-**Default passwords lists | Online Hash cracking**
+### **Default passwords lists | Online Hash cracking**
 - https://cirt.net/passwords
 - https://www.routerpasswords.com/
 - https://default-password.info/
 - https://crackstation.net/
 - https://wiki.skullsecurity.org/Passwords
-**Vulnerabilities DB**
+### **Vulnerabilities DB**
 - https://www.rapid7.com/db/
 - https://vuldb.com/
 - https://nvd.nist.gov/
@@ -82,7 +82,7 @@ Social Media Analysis Tools
 - https://www.cvedetails.com/vulnerability-list/vendor_id-26/product_id-3436/Microsoft-IIS.html
 - https://sploitus.com/?fbclid=IwAR3lO6PFoGHvDIa7fLQ2yGkiH6ExkAudWc1qiXy8uwuF3j_fvR5d5p3gUX0
 - https://www.exploit-db.com/
-**OSINT Tools** 
+### **OSINT Tools** 
 - https://github.com/aboul3la/Sublist3r
 - https://github.com/thewhiteh4t/FinalRecon
 - https://github.com/ElevenPaths/FOCA
@@ -96,7 +96,7 @@ Social Media Analysis Tools
 - https://tools.kali.org/information-gathering/metagoofil
 - https://tools.kali.org/information-gathering/urlcrazy
 - https://tools.kali.org/information-gathering/fierce
-**Secure Browsing**
+### **Secure Browsing**
 - https://brave.com/
 - https://decentraleyes.org/
 - https://www.eff.org/HTTPS-EVERYWHERE
@@ -108,7 +108,7 @@ Social Media Analysis Tools
 - https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/
 - https://addons.mozilla.org/en-US/firefox/addon/umatrix/
 - https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/
-**Browser Finger Printing**
+### **Browser Finger Printing**
 - https://browserleaks.com/
 - https://amiunique.org/
 - https://panopticlick.eff.org/results?aat=1#fingerprintTable
