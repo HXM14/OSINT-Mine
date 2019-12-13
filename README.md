@@ -18,7 +18,7 @@
 - [bellingcat Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/mobilebasic#h.53v0mj3zi19x)- [**Bellingcat**](https://www.bellingcat.com/) is an investigative journalism website that specializes in fact-checking and open-source intelligence check .
 - OSINT Resources and Tools [onstrat](http://www.onstrat.com/osint/) For Intelligence gathering.
 ### **OSINT Tools** 
-- https://github.com/aboul3la/Sublist3r [Web-Sub Domains Enumeration]
+- [Web-Sub Domains Enumeration] https://github.com/aboul3la/Sublist3r 
 - https://github.com/thewhiteh4t/FinalRecon
 - https://tools.kali.org/information-gathering/theharvester
 - https://github.com/ElevenPaths/FOCA
