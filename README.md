@@ -22,6 +22,7 @@
 - https://github.com/thewhiteh4t/FinalRecon
 - https://github.com/ElevenPaths/FOCA
 - https://github.com/twintproject/twint
+- https://github.com/bhavsec/reconspider
 - https://github.com/DataSploit/datasploit
 - https://github.com/leebaird/discover
 - https://github.com/smicallef/spiderfoot
