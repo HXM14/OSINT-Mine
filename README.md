@@ -17,6 +17,7 @@
 - 	Open Source Intelligence Tools & Resources [OSINT](https://osint.link/).
 - MISP - Open Source Threat Intelligence Platform & Open Standards For Threat Information Sharing [MISP](https://www.misp-project.org/).
 - OSINT Resources and Tools [onstrat](http://www.onstrat.com/osint/) For Intelligence gathering.
+- [Open Infrastructure Map](https://openinframap.org/?fbclid=IwAR3dbzvC7hblo6SjTHLFKvdKTx4k1C_TGNE_GbuK70nmGRNQD4SF4RiowUk#10.44/30.03/31.2887).
 ### OSINT & threat intelligence Tools 
 - https://github.com/OpenCTI-Platform/opencti
 - https://github.com/thewhiteh4t/FinalRecon
