@@ -38,6 +38,7 @@
 - https://tools.kali.org/information-gathering/urlcrazy
 - https://tools.kali.org/information-gathering/fierc
 ### Secure Browsing
+- https://github.com/gautamkrishnar/nothing-private 
 - **Brave Browser** For Anonymous Browsing [Download](https://brave.com/).
 - **Decentraleyes** Local CDN Emulation [Add it to your Browser](https://decentraleyes.org/).
 - **HTTPS Every where** [Addone](https://www.eff.org/HTTPS-EVERYWHERE) encrypts Web communications with many major websites, making browsing more secure.
