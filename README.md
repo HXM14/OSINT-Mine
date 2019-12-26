@@ -20,6 +20,7 @@
 - [Open Infrastructure Map](https://openinframap.org/?fbclid=IwAR3dbzvC7hblo6SjTHLFKvdKTx4k1C_TGNE_GbuK70nmGRNQD4SF4RiowUk#10.44/30.03/31.2887).
 -https://www.peerlyst.com/posts/resource-osint-tools-and-how-you-learn-how-to-use-them-guurhart
 ### OSINT & threat intelligence Tools 
+- https://hakin9.org/people-tracker-on-the-internet-osint-analysis-and-research-tool/
 - https://github.com/OpenCTI-Platform/opencti
 - https://github.com/sundowndev/PhoneInfoga?fbclid=IwAR3j5C8pfZTHuh9WVcTWTzHKT-dxtdm1CIOeVFF1HxV796PCLUs8yzYriAY
 - https://github.com/thewhiteh4t/FinalRecon
