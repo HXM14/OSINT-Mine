@@ -38,6 +38,7 @@
 - https://tools.kali.org/information-gathering/metagoofil
 - https://tools.kali.org/information-gathering/urlcrazy
 - https://tools.kali.org/information-gathering/fierc
+- [Recon] https://hackersonlineclub.com/hoc-ig-hackersonlineclubs-automatic-information-gathering-tool/
 ### Secure Browsing
 - https://github.com/gautamkrishnar/nothing-private 
 - **Brave Browser** For Anonymous Browsing [Download](https://brave.com/).
