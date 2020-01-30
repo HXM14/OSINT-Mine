@@ -25,6 +25,7 @@
 - https://github.com/sundowndev/PhoneInfoga?fbclid=IwAR3j5C8pfZTHuh9WVcTWTzHKT-dxtdm1CIOeVFF1HxV796PCLUs8yzYriAY
 - https://github.com/thewhiteh4t/FinalRecon
 - https://github.com/whitelisthackers/wosind
+- https://github.com/bernsteining/InstaLocTrack
 - https://github.com/ElevenPaths/FOCA
 - https://github.com/twintproject/twint
 - https://github.com/bhavsec/reconspider
