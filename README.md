@@ -30,6 +30,7 @@
 - https://github.com/twintproject/twint
 - https://github.com/bhavsec/reconspider
 - https://github.com/DataSploit/datasploit
+- https://github.com/sundowndev/PhoneInfoga
 - https://github.com/leebaird/discover
 - https://github.com/smicallef/spiderfoot
 - https://github.com/m4ll0k/Infoga
