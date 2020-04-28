@@ -19,6 +19,12 @@
 - OSINT Resources and Tools [onstrat](http://www.onstrat.com/osint/) For Intelligence gathering.
 - [Open Infrastructure Map](https://openinframap.org/?fbclid=IwAR3dbzvC7hblo6SjTHLFKvdKTx4k1C_TGNE_GbuK70nmGRNQD4SF4RiowUk#10.44/30.03/31.2887).
 -https://www.peerlyst.com/posts/resource-osint-tools-and-how-you-learn-how-to-use-them-guurhart
+-https://awesomeopensource.com/projects/osint
+-https://github.com/gautamkrishnar/nothing-private
+-https://github.com/jivoi/awesome-osint
+-https://medium.com/@Peter_UXer/osint-how-to-find-information-on-anyone-5029a3c7fd56
+-https://ssd.eff.org/en
+-https://themanyhats.club/centralised-place-for-privacy-resources/#osint
 ### OSINT & threat intelligence Tools 
 - https://hakin9.org/people-tracker-on-the-internet-osint-analysis-and-research-tool/
 - https://github.com/OpenCTI-Platform/opencti
@@ -29,6 +35,7 @@
 - https://github.com/ElevenPaths/FOCA
 - https://github.com/twintproject/twint
 - https://github.com/bhavsec/reconspider
+- https://github.com/jofpin/trape
 - https://github.com/DataSploit/datasploit
 - https://github.com/sundowndev/PhoneInfoga
 - https://github.com/leebaird/discover
